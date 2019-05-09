@@ -1,0 +1,11 @@
+C:\guhtol\ExemploRepositoryPattern\bin\Debug\netcoreapp2.2\ExemploRepositoryPattern.deps.json
+C:\guhtol\ExemploRepositoryPattern\bin\Debug\netcoreapp2.2\ExemploRepositoryPattern.runtimeconfig.json
+C:\guhtol\ExemploRepositoryPattern\bin\Debug\netcoreapp2.2\ExemploRepositoryPattern.runtimeconfig.dev.json
+C:\guhtol\ExemploRepositoryPattern\bin\Debug\netcoreapp2.2\ExemploRepositoryPattern.dll
+C:\guhtol\ExemploRepositoryPattern\bin\Debug\netcoreapp2.2\ExemploRepositoryPattern.pdb
+C:\guhtol\ExemploRepositoryPattern\obj\Debug\netcoreapp2.2\ExemploRepositoryPattern.csprojAssemblyReference.cache
+C:\guhtol\ExemploRepositoryPattern\obj\Debug\netcoreapp2.2\ExemploRepositoryPattern.csproj.CoreCompileInputs.cache
+C:\guhtol\ExemploRepositoryPattern\obj\Debug\netcoreapp2.2\ExemploRepositoryPattern.AssemblyInfoInputs.cache
+C:\guhtol\ExemploRepositoryPattern\obj\Debug\netcoreapp2.2\ExemploRepositoryPattern.AssemblyInfo.cs
+C:\guhtol\ExemploRepositoryPattern\obj\Debug\netcoreapp2.2\ExemploRepositoryPattern.dll
+C:\guhtol\ExemploRepositoryPattern\obj\Debug\netcoreapp2.2\ExemploRepositoryPattern.pdb
